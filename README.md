@@ -1,4 +1,4 @@
-# celinezzzz.github.io
+# 2023 Fall 生物信息学实践
 ## 9.22 第一次课笔记
 课后作业8~9次，2人一组经验分享10分钟
 ### 3 Steps of Bioinformatics
